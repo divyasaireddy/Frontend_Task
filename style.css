@@ -1,0 +1,12 @@
+.profile-card {
+  background-color: #fefefe;
+  border: 1px solid #f1f1f1;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+}
+.profile-card:hover {
+  transform: scale(1.03);
+}
